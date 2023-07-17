@@ -1,4 +1,7 @@
+#t2021-2-1
+
 ##Calculator Program
+
 The program consists of two classes:
 
 Calculator class:
@@ -15,7 +18,9 @@ Odd Numbers Program
 The program consists of a single class:
 
 ##Odd Numbers Program
+
 Program2 class:
+
 This class contains the main method and is the entry point of the program.
 It takes user input for a number using the Scanner class.
 The program then iterates from 1 to (n*2)-1, where n is the input number.
@@ -24,7 +29,9 @@ Odd Numbers Program
 The program consists of a single class:
 
 ##Odd Numbers Program
+
 Program3 class:
+
 This class contains the main method and is the entry point of the program.
 It takes user input for a number using the Scanner class.
 The program then calculates a value, val, based on the input number. If the number is odd, val is set to the input number; otherwise, it is set to the input number minus 1.
@@ -34,7 +41,9 @@ Multiples Count Program
 The program consists of a single class:
 
 ##Multiples Count Program
+
 Program4 class:
+
 This class contains the main method and is the entry point of the program.
 It takes user input for the size of the array using the Scanner class.
 It then takes input for the elements of the array using a loop and stores them in the array ar.
